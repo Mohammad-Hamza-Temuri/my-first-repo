@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+h1,h2 {
+    color: #222;
+}
+
+a {
+    color: rgba(1, 192, 1, 0.808);
+}
